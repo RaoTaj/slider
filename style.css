@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    height: 100vh;
+    width: 100%;
+    align-items: center;
+    
+    background: plum;
+}
+
+.container .swiper {
+    width: 80%;
+    height: fit-content;
+}
+
+.container .swiper .swiper-wrapper .swiper-slide img {
+    width: 100%;
+}
